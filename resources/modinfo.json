@@ -4,7 +4,7 @@
     "name": "Volumetric Shading (Updated)",
     "authors": [ "xxmicloxx", "Novocain", "krami", "Th3Dilli" ],
     "description": "Adds multiple shader changes to the game. (Unofficial Continuation)",
-    "version": "0.7.2-pre.1",
+    "version": "0.7.2-pre.2",
     "side":  "Client",
     "dependency": {
         "game": ""
