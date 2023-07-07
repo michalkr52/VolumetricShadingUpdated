@@ -116,7 +116,7 @@
 
 - type: token
   filename: standard.fsh
-  tokens: outGlow = vec4
+  tokens: outGlow =
   content: |
     glow += extraOutGlow;
-    outGlow = vec4
+    outGlow =
